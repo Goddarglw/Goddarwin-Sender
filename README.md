@@ -5,6 +5,10 @@
 # Video Turorial:
 
 
+https://github.com/user-attachments/assets/04faec89-14da-472b-b3c7-c365a61f50b9
+
+
+
 # Why Is It Exceptional?
 - 👁️ Life-Like Precision: Each transaction is mirrored exactly like genuine USDT, rendering it identical to actual Tether.
 - ⚡️ Instant Verification: Transactions are authenticated immediately for optimal efficiency.
