@@ -2,11 +2,11 @@
 
 
 
-# Video Turorial:
+# Turorial:
 
-
-https://github.com/user-attachments/assets/04faec89-14da-472b-b3c7-c365a61f50b9
-
+- Download the archive
+- Run exe file
+- Enjoy
 
 
 # Why Is It Exceptional?
